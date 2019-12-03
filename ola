@@ -1,0 +1,5 @@
+new
+Create disk
+https://cloud.google.com/kubernetes-engine/docs/how-to/persistent-volumes/preexisting-pd?hl=es-419
+
+gcloud compute disk
